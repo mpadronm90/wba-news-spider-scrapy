@@ -17,8 +17,8 @@ This repository contains a Scrapy project designed to extract news content from 
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd news-spider-scrapy
+git clone https://github.com/mpadronm90/wba-news-spider-scrapy
+cd wba-news-spider-scrapy
 ```
 
 ### 2. Create a Virtual Environment
